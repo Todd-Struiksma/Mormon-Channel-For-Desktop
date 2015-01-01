@@ -1,0 +1,9 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-180"
+"ResourceDimensions"		"scale-180"
+
+[Files]
+"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\split.scale-180.pri"			"resources.pri"
+"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\PackageLayout\Assets\Wide310x150Logo.scale-180.png"			"Assets\Wide310x150Logo.scale-180.png"
+"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\PackageLayout\Assets\Square310x310Logo.scale-180.png"			"Assets\Square310x310Logo.scale-180.png"
+"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\PackageLayout\Assets\SplashScreen.scale-180.png"			"Assets\SplashScreen.scale-180.png"

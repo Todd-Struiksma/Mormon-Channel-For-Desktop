@@ -1,0 +1,20 @@
+[ResourceMetadata]
+"ResourceDimensions"		"scale-100"
+"ResourceDimensions"		"language-en-us"
+"ResourceDimensions"		"language-en-US"
+
+[Files]
+"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\split.pri"			"resources.pri"
+"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\PackageLayout\New Mormon Channel Radio.xr.xml"			"New Mormon Channel Radio.xr.xml"
+"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\PackageLayout\New Mormon Channel Radio.exe"			"New Mormon Channel Radio.exe"
+"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\PackageLayout\MainPage.xbf"			"MainPage.xbf"
+"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\PackageLayout\App.xbf"			"App.xbf"
+"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\PackageLayout\Assets\Wide310x150Logo.scale-100.png"			"Assets\Wide310x150Logo.scale-100.png"
+"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\PackageLayout\Assets\StoreLogo.scale-100.png"			"Assets\StoreLogo.scale-100.png"
+"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\PackageLayout\Assets\Square70x70Logo.scale-100.png"			"Assets\Square70x70Logo.scale-100.png"
+"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\PackageLayout\Assets\Square310x310Logo.scale-100.png"			"Assets\Square310x310Logo.scale-100.png"
+"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\PackageLayout\Assets\SplashScreen.scale-100.png"			"Assets\SplashScreen.scale-100.png"
+"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\PackageLayout\Assets\SmallLogo.targetsize-32.png"			"Assets\SmallLogo.targetsize-32.png"
+"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\PackageLayout\Assets\SmallLogo.targetsize-256.png"			"Assets\SmallLogo.targetsize-256.png"
+"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\PackageLayout\Assets\SmallLogo.scale-100.png"			"Assets\SmallLogo.scale-100.png"
+"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\PackageLayout\Assets\Logo.scale-100.png"			"Assets\Logo.scale-100.png"

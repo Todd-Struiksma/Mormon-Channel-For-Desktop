@@ -1,0 +1,4 @@
+MainPackage=C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\bin\Debug\New Mormon Channel Radio_1.1.0.2_Bundle\New Mormon Channel Radio_1.1.0.2_AnyCPU_Debug.appx
+SymbolPackage=C:\Users\Todd\Desktop\New Mormon Channel Radio_1.1.0.2_Debug_Test\New Mormon Channel Radio_1.1.0.2_AnyCPU_Debug.appxsym
+ResourcePack=C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\bin\Debug\New Mormon Channel Radio_1.1.0.2_Bundle\New Mormon Channel Radio_1.1.0.2_scale-140.appx
+ResourcePack=C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\bin\Debug\New Mormon Channel Radio_1.1.0.2_Bundle\New Mormon Channel Radio_1.1.0.2_scale-180.appx

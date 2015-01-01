@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="New_Mormon_Channel_Radio.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:New_Mormon_Channel_Radio"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Height="Auto" Width="Auto" HorizontalAlignment="Left" VerticalAlignment="Top">
+    <Canvas HorizontalAlignment="Center" Height="768" VerticalAlignment="Top" Width="1366">
+        <AppBarButton Icon="Accept" Label="AppBarButton" Canvas.Left="4" Canvas.Top="-4"/>
+        <AppBarButton Icon="Accept" Label="AppBarButton" Canvas.Left="110" Canvas.Top="-4"/>
+        <AppBarButton Icon="Accept" Label="AppBarButton" Canvas.Left="203" Canvas.Top="-4"/>
+        <AppBarButton Icon="Accept" Label="AppBarButton" Canvas.Left="296" Canvas.Top="-4" HorizontalAlignment="Center"/>
+        <MediaElement x:Name="MediaElement" Height="100" Canvas.Top="199" Width="580" Canvas.Left="41"/>
+        <Slider x:Name="Slider" Canvas.Left="55" Canvas.Top="113" Width="299"/>
+    </Canvas>
+
+</Page>
