@@ -1,86 +1,88 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>WIN-4P2FAAI6L91</Machine>
-    <WindowsUser>Todd</WindowsUser>
+    <Machine>DESKTOP-CO4ULIG</Machine>
+    <WindowsUser>Todd-PC</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
     <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>36723ToddStruiksma.MormonChannelRadio</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Release\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Release\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\bin\Release\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\bin\Release\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\bin\Release\New Mormon Channel Radio.exe">
+    <AppxPackagedFile Include="C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\bin\Release\New Mormon Channel Radio.exe">
       <PackagePath>New Mormon Channel Radio.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\Assets\SmallLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\Assets\SmallLogo.targetsize-256.png">
       <PackagePath>Assets\SmallLogo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\Assets\SmallLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\Assets\SmallLogo.targetsize-32.png">
       <PackagePath>Assets\SmallLogo.targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\Assets\SplashScreen.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\Assets\SplashScreen.scale-180.png">
       <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\Assets\Square310x310Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\Assets\Square310x310Logo.scale-100.png">
       <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\Assets\Square310x310Logo.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\Assets\Square310x310Logo.scale-180.png">
       <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\Assets\Square70x70Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\Assets\Square70x70Logo.scale-100.png">
       <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\Assets\StoreLogo.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\Assets\StoreLogo.scale-140.png">
       <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\Assets\Wide310x150Logo.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\Assets\Wide310x150Logo.scale-180.png">
       <PackagePath>Assets\Wide310x150Logo.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\bin\Release\App.xbf">
-      <PackagePath>App.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\bin\Release\MainPage.xbf">
-      <PackagePath>MainPage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\bin\Release\New Mormon Channel Radio.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\bin\Release\New Mormon Channel Radio.xr.xml">
       <PackagePath>New Mormon Channel Radio.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\bin\Release\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\bin\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

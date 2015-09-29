@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="36723ToddStruiksma.MormonChannelRadio" Publisher="CN=B489C73F-EDE0-47B4-979C-1C32E69674A7" Version="1.1.0.0" ProcessorArchitecture="neutral" />
+  <Identity Name="36723ToddStruiksma.MormonChannelRadio" Publisher="CN=B489C73F-EDE0-47B4-979C-1C32E69674A7" Version="1.2.0.0" ProcessorArchitecture="neutral" />
   <Properties>
     <DisplayName>Mormon Channel Radio</DisplayName>
     <PublisherDisplayName>Todd Struiksma</PublisherDisplayName>
@@ -31,6 +31,13 @@
         <m2:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#464646" />
         <m2:ApplicationView MinWidth="width500" />
       </m2:VisualElements>
+      <Extensions>
+        <Extension Category="windows.backgroundTasks" EntryPoint="New_Mormon_Channel_Radio.App">
+          <BackgroundTasks>
+            <Task Type="audio" />
+          </BackgroundTasks>
+        </Extension>
+      </Extensions>
     </Application>
   </Applications>
   <Capabilities>
@@ -38,11 +45,12 @@
   </Capabilities>
   <build:Metadata>
     <build:Item Name="TargetFrameworkMoniker" Value=".NETCore,Version=v4.5.1" />
-    <build:Item Name="VisualStudio" Version="12.0" />
-    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Express 2013 for Windows" />
-    <build:Item Name="OperatingSystem" Version="6.4.9841.0 (fbl_release.140912-1613)" />
-    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="12.0.30501.0" />
-    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="12.0.30501.0" />
-    <build:Item Name="MakePri.exe" Version="6.3.9600.17029 (winblue_gdr.140219-1702)" />
+    <build:Item Name="VisualStudio" Version="14.0" />
+    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Enterprise 2015" />
+    <build:Item Name="OperatingSystem" Version="10.0.10240.16384 (th1.150709-1700)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="14.0.23107.0" />
+    <build:Item Name="ProjectGUID" Value="{52445C91-CA18-471C-8582-A14F0B19366B}" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.81.Build.Tasks.dll" Version="14.0.22705.1" />
+    <build:Item Name="MakePri.exe" Version="6.3.9600.17336 (winblue.150226-1500)" />
   </build:Metadata>
 </Package>

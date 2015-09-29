@@ -3,5 +3,5 @@
 "ResourceDimensions"		"scale-140"
 
 [Files]
-"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Release\filemap.scale-140.pri"			"resources.pri"
-"C:\Users\Todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Release\PackageLayout\Assets\StoreLogo.scale-140.png"			"Assets\StoreLogo.scale-140.png"
+"C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Release\filemap.scale-140.pri"			"resources.pri"
+"C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Release\PackageLayout\Assets\StoreLogo.scale-140.png"			"Assets\StoreLogo.scale-140.png"

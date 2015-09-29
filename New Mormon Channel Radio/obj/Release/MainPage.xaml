@@ -5,16 +5,32 @@
     xmlns:local="using:New_Mormon_Channel_Radio"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        mc:Ignorable="d">
-    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <AppBarButton x:ConnectionId='1' HorizontalAlignment="Stretch" Icon="Microphone" Label="Talk Radio" Margin="-300,100,-6,0" VerticalAlignment="Top"                           />
-        <AppBarButton x:ConnectionId='2' HorizontalAlignment="Stretch" Icon="Audio" Label="Music Channel" Margin="-100,100,-6,0" VerticalAlignment="Top"                              RenderTransformOrigin="0.655,0.534"/>
-        <AppBarButton x:ConnectionId='3' HorizontalAlignment="Stretch" Icon="World" Label="Spanish" Margin="300,100,-6,0" VerticalAlignment="Top"                             >
+        mc:Ignorable="d" MinWidth="768">
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" MinWidth="768">
+        <AppBarButton x:ConnectionId='1' HorizontalAlignment="Stretch" Icon="Microphone" Label="Talk Radio" Margin="-600,100,0,0" VerticalAlignment="Top"                            RenderTransformOrigin="0.5,0.5" Width="100">
+            <AppBarButton.RenderTransform>
+                <CompositeTransform ScaleX="2" ScaleY="2"/>
+            </AppBarButton.RenderTransform>
+        </AppBarButton>
+        <AppBarButton x:ConnectionId='2' HorizontalAlignment="Stretch" Icon="Audio" Label="Music Channel" Margin="-200,100,0,0" VerticalAlignment="Top"                              RenderTransformOrigin="0.5,0.5" Width="100">
+            <AppBarButton.RenderTransform>
+                <CompositeTransform ScaleX="2" ScaleY="2"/>
+            </AppBarButton.RenderTransform>
+        </AppBarButton>
+        <AppBarButton x:ConnectionId='3' HorizontalAlignment="Stretch" Icon="World" Label="Canal Mormón" Margin="600,100,0,0" VerticalAlignment="Top"                              RenderTransformOrigin="0.5,0.5" Width="100">
+            <AppBarButton.RenderTransform>
+                <CompositeTransform ScaleX="2" ScaleY="2"/>
+            </AppBarButton.RenderTransform>
 
         </AppBarButton>
-        <AppBarButton x:ConnectionId='4' HorizontalAlignment="Stretch" Icon="MusicInfo" Label="Mormon Tabernacle Choir" Margin="100,100,-6,0" VerticalAlignment="Top"                              Height="107"/>
-        <Slider x:Name="Slider" HorizontalAlignment="Center" Margin="0,215,0,0" VerticalAlignment="Top" Width="388" Value="50"/>
-        <MediaElement x:Name="MediaElement" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="691" Margin="355,302,0,0" AreTransportControlsEnabled="False"/>
+        <AppBarButton x:ConnectionId='4' HorizontalAlignment="Stretch" Icon="MusicInfo" Label="Mormon Tabernacle Choir" Margin="200,110,0,0" VerticalAlignment="Top"                              Height="107" RenderTransformOrigin="0.5,0.5" Width="100">
+            <AppBarButton.RenderTransform>
+                <CompositeTransform ScaleX="2" ScaleY="2"/>
+            </AppBarButton.RenderTransform>
+        </AppBarButton>
+        <Slider x:Name="Slider" HorizontalAlignment="Center" Margin="0,237,0,0" VerticalAlignment="Top" Width="517" Value="50"/>
+        <MediaElement x:Name="MediaElement" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="691" Margin="355,302,0,0" AreTransportControlsEnabled="True" AudioCategory="BackgroundCapableMedia" Visibility="Collapsed" 
+            />
     </Grid>
 </Page>
 

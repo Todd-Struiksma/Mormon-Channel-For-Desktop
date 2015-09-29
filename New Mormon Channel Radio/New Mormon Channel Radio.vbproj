@@ -17,8 +17,8 @@
     <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
     <AppxBundlePlatforms>neutral</AppxBundlePlatforms>
     <PackageCertificateThumbprint>54B18B3827EAE13A7CBC2B6D7A9CE7E59B30483C</PackageCertificateThumbprint>
-    <AppxPackageDir>C:\Users\Todd\Desktop\</AppxPackageDir>
-    <AppxBundle>Auto</AppxBundle>
+    <AppxPackageDir>C:\Users\Todd-PC\Desktop\To upload to store\</AppxPackageDir>
+    <AppxBundle>Always</AppxBundle>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

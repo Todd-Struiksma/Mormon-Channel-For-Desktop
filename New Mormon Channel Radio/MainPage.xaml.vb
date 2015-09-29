@@ -6,6 +6,7 @@
 
 
 
+
 Public NotInheritable Class MainPage
     Inherits Page
 
@@ -15,7 +16,7 @@ Public NotInheritable Class MainPage
 
 
     Private Sub AppBarButton_Click(sender As Object, e As RoutedEventArgs)
-        MediaElement.Source = (New Uri("http://d1jwofs8l1nyio.cloudfront.net/new_mormon"))
+        MediaElement.Source = (New Uri("http://ldschurch.mp3.miisolutions.net/MormonChannel/new_mormon_Web"))
 
     End Sub
 
@@ -26,18 +27,18 @@ Public NotInheritable Class MainPage
 
 
     Private Sub AppBarButton_Click_1(sender As Object, e As RoutedEventArgs)
-        MediaElement.Source = (New Uri("http://d1jwofs8l1nyio.cloudfront.net/new_music"))
+        MediaElement.Source = (New Uri("http://ldschurch.mp3.miisolutions.net/MormonMusicChannel/new_music_Web"))
     End Sub
 
 
 
     Private Sub AppBarButton_Click_2(sender As Object, e As RoutedEventArgs)
-        MediaElement.Source = (New Uri("http://d1jwofs8l1nyio.cloudfront.net/spanish"))
+        MediaElement.Source = (New Uri("http://ldschurch.mp3.miisolutions.net/CanalMormon/spanish"))
     End Sub
 
     Private Sub AppBarButton_Click_3(sender As Object, e As RoutedEventArgs)
 
-        MediaElement.Source = (New Uri("http://d1jwofs8l1nyio.cloudfront.net/motab"))
+        MediaElement.Source = (New Uri("http://ldschurch.mp3.miisolutions.net/MormonTabernacleChoir/motab_Web"))
 
 
 

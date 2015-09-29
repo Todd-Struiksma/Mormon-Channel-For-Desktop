@@ -32,3 +32,105 @@ c:\users\todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New
 c:\users\todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\qualifiers.txt.intermediate
 c:\users\todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 c:\users\todd\documents\visual studio 2013\Projects\New Mormon Channel Radio\New Mormon Channel Radio\obj\Debug\ProjectArchitectures.txt
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\bin\Debug\App.xbf
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\bin\Debug\MainPage.xbf
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\bin\Debug\New Mormon Channel Radio.xr.xml
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\bin\Debug\New Mormon Channel Radio.exe
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\bin\Debug\New Mormon Channel Radio.pdb
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\bin\Debug\New_Mormon_Channel_Radio.xml
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\bin\Debug\resources.pri
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\bin\Debug\AppxManifest.xml
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\bin\Debug\New Mormon Channel Radio.build.appxrecipe
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\App.g.i.vb
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\App.g.vb
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\MainPage.g.i.vb
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\MainPage.g.vb
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\XamlTypeInfo.g.vb
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\App.xaml
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\MainPage.xaml
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\App.xbf
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\MainPage.xbf
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\New Mormon Channel Radio.exe
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\New_Mormon_Channel_Radio.xml
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\New Mormon Channel Radio.pdb
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\priconfig.xml
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\priconfig.xml.intermediate
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\layout.resfiles
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\layout.resfiles.intermediate
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\resources.resfiles
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\resources.resfiles.intermediate
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\pri.resfiles
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\pri.resfiles.intermediate
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\qualifiers.txt
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Todd-PC\Desktop\MOrmon Channel 1.0\New Mormon Channel Radio\obj\Debug\ProjectArchitectures.txt
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\bin\Debug\App.xbf
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\bin\Debug\MainPage.xbf
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\bin\Debug\New Mormon Channel Radio.xr.xml
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\bin\Debug\New Mormon Channel Radio.exe
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\bin\Debug\New Mormon Channel Radio.pdb
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\bin\Debug\New_Mormon_Channel_Radio.xml
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\bin\Debug\resources.pri
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\bin\Debug\AppxManifest.xml
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\bin\Debug\New Mormon Channel Radio.build.appxrecipe
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\App.g.i.vb
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\App.g.vb
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\MainPage.g.i.vb
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\MainPage.g.vb
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\XamlTypeInfo.g.vb
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\App.xaml
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\MainPage.xaml
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\App.xbf
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\MainPage.xbf
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\New Mormon Channel Radio.exe
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\New_Mormon_Channel_Radio.xml
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\New Mormon Channel Radio.pdb
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\priconfig.xml
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\priconfig.xml.intermediate
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\layout.resfiles
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\layout.resfiles.intermediate
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\resources.resfiles
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\resources.resfiles.intermediate
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\pri.resfiles
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\pri.resfiles.intermediate
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\qualifiers.txt
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel\New Mormon Channel Radio\obj\Debug\ProjectArchitectures.txt
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\bin\Debug\App.xbf
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\bin\Debug\MainPage.xbf
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\bin\Debug\New Mormon Channel Radio.xr.xml
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\bin\Debug\New Mormon Channel Radio.exe
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\bin\Debug\New Mormon Channel Radio.pdb
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\bin\Debug\New_Mormon_Channel_Radio.xml
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\bin\Debug\resources.pri
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\bin\Debug\AppxManifest.xml
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\bin\Debug\New Mormon Channel Radio.build.appxrecipe
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\App.g.i.vb
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\App.g.vb
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\MainPage.g.i.vb
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\MainPage.g.vb
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\XamlTypeInfo.g.vb
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\App.xaml
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\MainPage.xaml
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\App.xbf
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\MainPage.xbf
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\New Mormon Channel Radio.exe
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\New_Mormon_Channel_Radio.xml
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\New Mormon Channel Radio.pdb
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\priconfig.xml
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\priconfig.xml.intermediate
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\layout.resfiles
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\layout.resfiles.intermediate
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\resources.resfiles
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\resources.resfiles.intermediate
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\pri.resfiles
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\pri.resfiles.intermediate
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\qualifiers.txt
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Todd-PC\Desktop\Latest Mormon Channel - Copy - Copy\New Mormon Channel Radio\obj\Debug\ProjectArchitectures.txt
